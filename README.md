@@ -1,4 +1,4 @@
-#About me
+<h1>About me</h1>
 
 Hi, my name S(h)(a)(q) H.oq, and I hold a Bachelors of Commerce degree specializing in Business Systems Analysis. I am proud to have received Magna Cum Laude Honours for my hard work and dedication to my studies. I also developed a passion for solving problems and understanding their underlying reasons. 
 
