@@ -1,2 +1,5 @@
-# sha1129.github.io
- sha1129.github.io
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
+
+
