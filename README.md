@@ -1,7 +1,7 @@
 <h1>About me</h1>
 
-Hi, my name S(h)(a)(q) H.oq, and I hold a Bachelors of Commerce degree specializing in Business Systems Analysis. I am proud to have received Magna Cum Laude Honours for my hard work and dedication to my studies. I also developed a passion for solving problems and understanding their underlying reasons. 
+Hi, my name is S(h)(a)(q) H.oq, and I hold a Bachelor of Commerce degree specializing in Information Technology. I graduated with Magna Cum Laude Honours and was named to the Dean’s List for academic excellence. Throughout my studies and professional experience, I developed a strong interest in building practical data solutions and improving processes through automation and reporting.
 
-My short-term goal will be to pursue a Master's degree further to develop my skills and knowledge in the Business Analytics field. In the long term, I plan to use my skills and expertise to impact society positively.
+In my recent roles, I’ve designed end-to-end dashboards, written advanced SQL queries, and built reporting workflows using tools like Power BI, Power Automate, and Python. I enjoy translating business needs into clear, actionable insights and working closely with cross-functional teams to deliver value through data. I’ve also participated in industry competitions, such as the Power BI DataViz World Championships, where I applied advanced reporting techniques to real-world challenges.
 
-Outside of work, I enjoy keeping up with current technologies and staying active. I love reading, cooking, and working out in my free time. These activities help keep my mind and body sharp and allow me to bring my best self to every challenge. 
+Outside of work, I’m always looking for ways to grow — whether it’s reading, staying active, or exploring new tools and technologies. I believe in continuous improvement, and I bring that mindset to every project I take on.
